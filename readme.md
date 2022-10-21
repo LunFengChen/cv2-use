@@ -2,4 +2,4 @@
 
 # opencv教程参考
 - https://www.kancloud.cn/aollo/aolloopencv/262768
-- https://youcans.blog.csdn.net/?type=blog
+- https://blog.csdn.net/youcans/category_11459626.html?spm=1001.2014.3001.5482
