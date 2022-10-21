@@ -14,7 +14,7 @@ print(260 % 255)
 print(x + y)  # 250+10=260%255=4
 # 结果为[4]
 
-# 3. 图像混合
+# 3. 图像加权混合
 # dst = α·img1 + β·img2 + γ
 img1 = cv2.imread('./data/lena.tif')
 img2 = cv2.imread('./data/lena.tif')
