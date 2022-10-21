@@ -2,6 +2,10 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 
+# opencv教程参考
+# https://www.kancloud.cn/aollo/aolloopencv/262768
+# https://youcans.blog.csdn.net/?type=blog
+
 # 1. 读取图像
 img = cv2.imread('./data/car.jpg', 0)
 
